@@ -12,4 +12,7 @@
 ４．eigenvalue_vector.py  
 　　固有値、固有ベクトル、角π/4 の回転行列  
 
-５．
+５．transpose.py  
+　　転置行列  
+
+６．
